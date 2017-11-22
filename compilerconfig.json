@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "Content/EventName/css/event.css",
+    "inputFile": "Content/EventName/scss/event.scss"
+  },
+  {
+    "outputFile": "Content/EventName/css/event.Mobile.css",
+    "inputFile": "Content/EventName/scss/event.Mobile.scss"
+  }
+]
